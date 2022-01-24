@@ -1,3 +1,4 @@
+//ELEMENTS OF THE ARRAY SHOULD BE IN SORTED ORDER.
 #include<iostream>
 using namespace std;
 int binarySearch(int Nums[], int n, int key)
