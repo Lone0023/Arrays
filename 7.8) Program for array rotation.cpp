@@ -54,5 +54,7 @@ int main()
     if(i == 3){
         cout<<"-----Process Terminated-----"<<endl;
     }
+    delete[]nums;
+    nums = NULL;
     return 0;
 }
